@@ -13,3 +13,5 @@ Remi - gera lista ad hlutum fyrir dorne
 20.1.2017
 Remi/Tomas - finna myndarvel og klara listan fyrir drone
 
+25.1.2017
+-Kynnum okkur hvernig a ad forrita drone
