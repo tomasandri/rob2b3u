@@ -18,3 +18,6 @@ Remi/Tomas - finna myndarvel og klara listan fyrir drone
 
 26.1.2017
 Klarum allt sem vid thurftum ad gera adur en kennarin pantar ihlutum
+
+1.2.2017
+Tengdum gyroscope við Arduino Mega og poweruðum Mega-ann í fyrsta skipti. Fengum hann til að sýna sig í RobotC og instölluðum firmware-i til að nota hann. Fengum ljós á gyroscopinn en vitum ekki hvort hann virki eða ekki.
