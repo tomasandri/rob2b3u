@@ -24,3 +24,24 @@ Tengdum gyroscope við Arduino Mega og poweruðum Mega-ann í fyrsta skipti. Fen
 
 2/17/2017
 Breyta skyrslu
+
+2/21/17
+Byrja ad bua til allt fyrir nytt vekrefni
+
+24/2/2017
+setja saman velina
+
+29/2/2017
+klara setja saman velina
+
+31/2/2017
+fri
+
+3/3/2017
+modification a velifni undir thad sem vid turfum
+
+8/3/2017
+klara modifications
+
+10/3/2017-22/3/2017
+rasbery pi
