@@ -1,0 +1,125 @@
+dd.mm.yyyy
+færsla
+
+13.01.2017
+Bjuggum til dagbókina, við áváðum hvaða verkefni við vildum taka fyrir og byrjuðum á lýsingu fyrir það.
+
+18.01.2017
+Verkefnið sem við völdum okkur, drone með myndavél, poweraður af Arduino, virðist vera töluvert flóknari en ég gerði ráð fyrir. En það er svosem allt
+í lagi, við getum þetta örugglega alveg. Remi byrjaði að gera lista yfir hluti sem við þurfum fyrir hann.
+Ég kláraði lýsinguna á verkefninu og byrjaði að setja upp tímaplan. Það gekk örðuglega vegna þess að ég var ekki viss hvað við þurftum að gera
+svo ég beið með það fram í næsta tíma.
+
+20.01.2017
+Við fundum myndavél og gyroscope sem við getum notað og bættum þeim í Hardware file-inn. Lítið annað átti sér stað í
+tímanum vegna þess að við höldum að við séum tilbúnir að byrja.
+
+25.01.2017
+Tíminn fór aðallega í að kynna okkur fyrir því hvernig við forritum dróna.
+
+27.01.2017
+Kláruðum mestallt sem við þurfum að gera áður en við fáum íhlutina. Við erum búnir að lesa okkur til um dróna
+forritun og skoða Arduino Mega borðið.
+
+01.02.2017
+Tengdum gyroscope við Arduino Mega og poweruðum Mega-ann í fyrsta skipti. Fengum hann til að sýna sig í RobotC 
+og instölluðum firmware-i til að nota hann. Fengum ljós á gyroscopinn en vitum ekki hvort hann virki eða ekki.
+
+03.02.2017
+Við fengum loksins data frá gyroscopinum á tölvuna og hann virkar fullkomlega. Ég er ekki alveg viss hvernig við
+eigum að nota hann en við getum ábyggilega fundið útúr því.
+
+08.02.2017
+Við vorum ekki með hardware til að gera neitt mikið þannig að tíminn fór aðallega í að slæpast eitthvað og bara
+dund við hitt og þetta. Ég ætla að koma með Arduino kit-ið hennar Ingu í næsta tíma.
+
+10.02.2017
+Ég kom með kittið og við reyndum að tengja hluti við stóra hvíta boardið en við erum ekki alveg að fá neitt til að
+virka. Mótorar á dróna fara ekki í gang og við kunnum ekki að tengja gyroscope við hvíta brettið
+
+15.02.2017
+Áváðum að dróni er of erfitt verkefni þar sem við höfum eiginlega enga reynslu af Arduino og við erum eiginlega bara
+mjög týndir. Ákváðum að gera eiginlega það sama, bara með bíl í stað dróna.
+
+17.02.2017
+Remi var einn í þessum tíma, þar sem að ég er veikur heima. Vonandi er eitthvað í dagbókinni hans sem segir til
+um hvað átti sér stað.
+
+22.02.2017
+Ég er enþá veikur
+
+24.02.2017
+#veikalífið
+
+01.03.2017
+Loksins kominn aftur. Remi er byrjaður að byggja bílinn og er kominn með góðann grunn. Ég gerði lýsinguna í tímanum
+og gerði nákvæmt tímaplan, sem við ætlum að fylgja eftir, til að geta klárað þetta fyrir páskana.
+
+03.03.2017	
+Skiptum frá Arduino Mega yfir í Raspberry Pi. Settum saman fyrstu mótorana á bílinn með hinum og þessum vandræðum þar sem mestallt dótið í 
+bílana er í notkun.
+
+08.03.2017
+Kláruðum að setja samann mestallann bílinn og höfum leikið fingrum fram við hönnun á honum. Prófuðum
+að keyra hann og hann virkar fínt. Hinsvegar er mótorinn fyrir arminn ekki kominn inn enþá.
+
+10.03.2017
+Ég var fjarverandi í þessum tíma vegna þess að ég var að setja upp fyrir LAN helgarinnar. Er semsagt
+í LAN Nefndinni.
+
+15.03.2017
+Eiríkur var veikur í þessum tíma og var því ekkert gert.
+
+17.03.2017
+Við reyndum að koma myndavélinni í gang en það gekk erfiðlega vegna þess að það vantar pretty much
+allt til þess að gera það. Við fórum út í Tölvutek til að kaupa HDMI í VGA adapter sem kostaði
+6k. Note to self: ekki versla við Tölvutek. Tíminn endaði svo fyrr vegna þess að Remi er að fara að vinna og SD kortið sem við erum 
+með er ónýtt.
+
+22.03.2017
+as
+
+24.03.2017
+as
+
+29.03.2017
+as
+
+31.03.2017
+as
+
+05.04.2017
+Mikið af tímanum fór í að reyna að setja sjálfvirkt email upp fyrir IP töluna. Semsagt, að þegar RasPi-inn kveikir á sér sendir hann email á mig með IP tölunni að honum. Næ
+hinsvegar alls ekki að fá það til að virka. Reyni aftur næst.
+
+07.05.2017
+Sami pakki og seinast eiginlega. Ekkert virðist virka. :/ Verulega böggandi. En, við höldum áfram að reyna.
+
+12.04.2017
+Páskafrí	
+
+14.04.2017
+Páskafrí
+
+19.04.2017
+Páskafrí
+
+21.04.2017
+Páskafrí
+
+26.04.2017
+Ég eyddi tímanum enn einu sinni í að reyna að fá emailin til að virka, en ekkert gengur. Er að missa trúna á því að þetta sé hægt. Þarf líklega að reinstalla öllu kerfinu.
+
+28.04.2017
+ÉG NÁÐI LOKSINS AÐ FÁ AUTOMATIC EMAIL SENDINGAR Í GANG! :D Róbótinn startar sér, og 30 sek seinna sendir hann email á mig með IP adressuni. Tók sinn
+tíma, ég setti alla scriptuna upp uppá nýtt og hún virkaði bara af einhverri ástæðu. Við náðum controllunum á róbótnum loksins í gang, myndavélin hreyfist rétt og armurinn.
+
+03.05.2017
+Ég setti upp síðu sem fær live stream frá RasPi-inum, þar sem þú getur tekið myndbönd, myndir og niðurhalað þeim. Þá er pretty much allt komið, nema að taka myndband
+af öllu í gangi. Gerum það næst þar sem tíminn er búinn.
+
+05.05.2017
+Náðum loksins að klára róbótinn. Tókum myndbönd of honum in action, af vefsíðunni og af hans sjónarhorni. Kláruðum allt sem við áttum eftir og skiluðum verkefninu.
+
+10.05.2017
+Í tímanum tókum við róbótinn í sundur og gengum frá öllu. 
